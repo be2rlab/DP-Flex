@@ -6,6 +6,10 @@ Achieving this functionality involves designing a gripper that closely mimics th
 
 
 
+https://github.com/user-attachments/assets/5619b6c0-b0da-44ac-9927-6c34568c1e2d
+
+
+
 # Design choices and features
 DP-Flex was designed to get a niche between availability, fast prototyping and dexterity. Three-fingered design makes the hand able to grasp objects using opposable thumb and objects adapting flexible distant phalanges.
 The workspace of the fingers was optimized to ensure opposability of the thumb enhancing possibility for gestures and reproduce most of the Cutkovscky's taxonomy.
