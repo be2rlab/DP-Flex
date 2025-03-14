@@ -11,9 +11,7 @@ Achieving this functionality involves designing a gripper that closely mimics th
 
 
 
-<div style="text-align:center">
-  <img src="https://github.com/user-attachments/assets/5619b6c0-b0da-44ac-9927-6c34568c1e2d" width="400">
-</div>
+<video src="https://github.com/user-attachments/assets/5619b6c0-b0da-44ac-9927-6c34568c1e2d" width="400" controls></video>
 
 
 
