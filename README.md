@@ -1,7 +1,7 @@
 # DP-Flex: Printable Versatile Hand with Compliant Distant Phalanges
 
 <div style="text-align:center">
-  <img src="https://github.com/user-attachments/assets/9f8e1a10-9b63-4a6d-a4ce-08d99411ee7c" width="500">
+  <img src="https://github.com/user-attachments/assets/9f8e1a10-9b63-4a6d-a4ce-08d99411ee7c" width="400">
   <p><em>DP-Flex with green soft silicone pads and compliant Fin Ray distal phalanges</em></p>
 </div>
 
@@ -11,7 +11,9 @@ Achieving this functionality involves designing a gripper that closely mimics th
 
 
 
-https://github.com/user-attachments/assets/5619b6c0-b0da-44ac-9927-6c34568c1e2d
+<div style="text-align:center">
+  <img src="https://github.com/user-attachments/assets/5619b6c0-b0da-44ac-9927-6c34568c1e2d" width="400">
+</div>
 
 
 
