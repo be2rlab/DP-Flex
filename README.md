@@ -1,7 +1,8 @@
 # DP-Flex: Printable Versatile Hand with Compliant Distant Phalanges
 
-<img src="https://github.com/user-attachments/assets/9f8e1a10-9b63-4a6d-a4ce-08d99411ee7c" width="200" alt="Пример изображения">
-
+<div style="text-align:center">
+  <img src="https://github.com/user-attachments/assets/9f8e1a10-9b63-4a6d-a4ce-08d99411ee7c" width="200" alt="DP-Flex with green soft silicone pads and compliant Fin Ray distal phalanges">
+</div>
 
 # Introduction
   Robots operating in human environments must manipulate common tools, which require functional grasping to interact with components like triggers and buttons. Since most objects are designed for human use, robotic grippers must adopt anthropomorphic designs featuring five-fingered topology with opposable thumbs and human-matched kinematics/phalanx dimensions.
